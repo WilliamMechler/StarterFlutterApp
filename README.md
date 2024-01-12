@@ -1,6 +1,6 @@
 # my_awesome_namer
 
-A new Flutter project.
+A new Flutter project. This was made by following their colab walkthrough and I messed around a little bit.
 
 ## Getting Started
 
